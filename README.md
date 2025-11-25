@@ -1,7 +1,5 @@
 # Campus-Course-and-Records-Manager-CCRM-
 
-# Campus-Course-Records-Manager-CCRM-
-
 🏛️ CCRM Project Overview & ArchitectureName: 
 
 Campus Course & Records Manager (CCRM)Platform 
